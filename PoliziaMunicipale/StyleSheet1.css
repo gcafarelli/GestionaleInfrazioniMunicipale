@@ -1,0 +1,27 @@
+﻿body {
+    /*background-image: url('img/police.jpg');*/
+    background-image: url('img/bg1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+footer {
+    height: 50px;
+    display: block;
+    position: fixed;
+    bottom: 0;
+    border-radius
+}
+.logout {
+    margin-left: 800px;
+    margin-top: 3px;
+}
+.central {
+    background: rgb(0 0 0 / 0.63)
+}
+.log{
+    text-decoration:none!important;
+}
+.nav{
+    margin-left:10%;
+}
